@@ -2,7 +2,7 @@
 basic c# net.core API for books SPA project that works with MongoDB
 
 
-In case you like to work with actuall database this is a basic implemantation of and API in c#/.net core
+In case you like to work with actual database this is a basic implemantation of and API in c#/.net core
 with MongoDB and a controller with casic CRUD.
 
 To use this:
