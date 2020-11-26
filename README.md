@@ -31,6 +31,8 @@ This will return list of books:
 
 
 
+
+
 **Sample book collection structure:**
 
 ```javascript
@@ -121,6 +123,8 @@ With JSON in the body, for example:
     ]
 ```
 succesful create returns: 201 Created
+
+
 
 
 
